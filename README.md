@@ -1,2 +1,2 @@
-# PrepCourseHenry
-Este es un repocitorio de prueva del cuerso de henry del modulo dos
+# PrepCoursesHenry
+Este es un proyecto para clonar mis proyectos a mi pcpersonal
